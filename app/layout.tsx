@@ -10,8 +10,8 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: "Folycure Hair",
-  description: "hair transplant in turkey",
+  title: "Nova Forma ",
+  description: "Rhinoplasty in turkey",
 };
 
 export default function RootLayout({

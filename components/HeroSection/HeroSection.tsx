@@ -20,7 +20,7 @@ export default function HeroSection() {
   const getPrice = () => {
     // Show default price while loading or during server-side rendering
     if (isLoading || typeof window === 'undefined') {
-      return '1990€';
+      return '2900€';
     }
     
     const hostname = window.location.hostname;
@@ -43,8 +43,8 @@ export default function HeroSection() {
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-[32px] lg:pl-[30px]">
         <div className="flex lg:flex-row flex-col max-w-xl relative z-20 ]">
           <div className='flex flex-col md:items-start items-center max-w-[410px] gap-2 text-center md:text-left'>
-            <h1 className="text-2xl md:text-5xl font-semibold leading-tight text-primaty">{t("HAIR TRANSPLANT IN TURKEY")}</h1>
-            <p className="text-sm md:text-base mb-4">{t("ALL-INCLUSIVE HAIR TRANSPLANT IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.")}</p>
+            <h1 className="text-2xl md:text-5xl font-semibold leading-tight text-primaty">{t("RHINOPLASTY IN TURKEY")}</h1>
+            <p className="text-sm md:text-base mb-4">{t("ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.")}</p>
             <div className="flex items-center gap-4">
               <Link
                 href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`}

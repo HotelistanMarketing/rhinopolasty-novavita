@@ -16,9 +16,10 @@ export default function WhyChoose() {
       <div className="container mx-auto flex flex-col lg:flex-row justify-between gap-10 lg:px-4 items-start overflow-hidden">
         {/* LEFT COLUMN */}
         <div className="flex-1 min-w-[350px] lg:max-w-[700px] max-w-full">
-          <h2 className="w-full text-center lg:text-left text-[#232A5C] text-2xl lg:text-[52px] font-semibold leading-[1.1] mb-4">{t("WHY FOLYCURE HAIR CLINIC")}</h2>
+          <h2 className="w-full text-center lg:text-left text-[#232A5C] text-2xl lg:text-[52px] font-semibold leading-[1.1] mb-4">{t("WHY NOVA FORMA")}</h2>
           <p className="text-sm lg:text-[20px] text-black font-normal mb-6 text-center lg:text-left px-4 lg:px-0">
-            {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.")}
+            {/* {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.")} */}
+            {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.")}
           </p>
           {/* <div className="flex-1 lg:hidden flex flex-row gap-4 lg:gap-8 w-full lg:max-w-[600px] text-center max-w-full overflow-x-scroll scrollba">
             <div className="bg-[#101C3D] rounded-2xl flex flex-row lg:flex-col items-center justify-center py-2 lg:py-[18px] lg:px-6 px-4 shadow-lg lg:h-[200px] w-[151px] lg:w-auto">
@@ -82,8 +83,8 @@ export default function WhyChoose() {
           {/* Card 1 */}
           <div className="bg-[#101C3D] rounded-2xl flex flex-col items-center justify-center py-[18px] px-6 shadow-lg h-[200px]">
             <HairTransplantIcon className="w-[62px] h-[62px] max-w-[62px] max-h-[62px]" />
-            <span className="text-white text-xl lg:text-[40px] font-bold leading-none mb-2 mt-[6px]">{t("+10.000")}</span>
-            <span className="text-white text-xl lg:text-[20px] font-normal">{t("SUCCESSFUL OPERATIONS")}</span>
+            <span className="text-white text-xl lg:text-[40px] font-bold leading-none mb-2 mt-[6px]">{t("+3000")}</span>
+            <span className="text-white text-xl lg:text-[20px] font-normal">{t("SUCCESSFUL SURGERIES")}</span>
           </div>
           {/* Card 2 */}
           <div className="bg-[#101C3D] rounded-2xl flex flex-col items-center justify-center py-[18px] px-6 shadow-lg h-[200px]">
@@ -95,7 +96,7 @@ export default function WhyChoose() {
           <div className="bg-[#101C3D] rounded-2xl flex flex-col items-center justify-center py-[18px] px-6 shadow-lg h-[200px]">
             <FaceIcon className="w-[62px] h-[62px] " />
             <span className="text-white text-xl lg:text-[40px] font-bold leading-none mb-2 mt-[6px]">{t("NATURAL")}</span>
-            <span className="text-white text-xl lg:text-[20px] font-normal">{t("HAIRLINE RESULTS")}</span>
+            <span className="text-white text-xl lg:text-[20px] font-normal">{t("LOOKING RESULTS")}</span>
           </div>
           {/* Card 4 */}
           <div className="bg-[#101C3D] rounded-2xl flex flex-col items-center justify-center py-[18px] px-6 shadow-lg h-[200px]">

@@ -29,7 +29,7 @@ export default function BeforeAfterBanner() {
         {/* Text and Button */}
         <div className="flex flex-col lg:flex-row items-center justify-between w-full ml-8">
           <p className="text-[#232A5C] font-semibold text-[20px] mb-4 lg:mb-0">
-            {t("THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.")}
+            {t("THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.")}
           </p>
          
         </div>

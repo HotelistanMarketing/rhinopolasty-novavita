@@ -2,8 +2,8 @@
 
 export const getDomainPrice = (hostname?: string, pathname?: string): string => {
   // Default price
-  const defaultPrice = '1990€';
-  const folycurePrice = '2499€';
+  const defaultPrice = '2900€';
+  const folycurePrice = '2900€';
   
   // If no hostname provided (server-side), return default
   if (!hostname) {

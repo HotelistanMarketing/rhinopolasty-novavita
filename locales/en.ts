@@ -1,31 +1,31 @@
 export default {
   // Hero Section
-  "HAIR TRANSPLANT IN TURKEY": "Hair Transplant in Turkey",
-  "ALL-INCLUSIVE HAIR TRANSPLANT IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "All-inclusive hair transplant in Turkey — expert care, natural results, no hidden costs.",
+  "RHINOPLASTY IN TURKEY": "Rhinoplasty in Turkiye",
+  "ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "All-inclusive rhinoplasty in Turkey — expert care, natural results, no hidden costs.",
   "BOOK YOUR FREE CONSULTATION": "Book Your Free Consultation",
 
   // Why Choose
-  "WHY FOLYCURE HAIR CLINIC": "Why Folycure Hair Clinic",
-  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.": "Our internationally recognized surgeons use the latest techniques like Sapphire FUE and DHI at our advanced clinic to deliver natural-looking hair restoration. We offer affordable all-inclusive packages covering the procedure, accommodation, transfers, and aftercare.",
+  "WHY NOVA FORMA": "Why NOVA FORMA",
+  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.": "Our internationally recognized surgeons use the latest techniques in rhinoplasty to deliver balanced, natural-looking nasal aesthetics. At our advanced clinic, we offer affordable all-inclusive packages covering the procedure, accommodation, transfers, and personalized aftercare.",
   "ASK US ANYTHING": "Ask Us Anything",
   
-  "+10.000": "+10.000",
-  "SUCCESSFUL OPERATIONS": "Successful Operations",
+  "+3000": "+3000",
+  "SUCCESSFUL SURGERIES": "Successful Surgeries",
   "+13": "+13",
   "YEARS EXPERIENCE": "Years Experience",
   "NATURAL": "Natural",
-  "HAIRLINE RESULTS": "Hairline Results",
+  "LOOKING RESULTS": "Looking Results",
   "+50": "+50",
   "EXPERT CONSULTANTS": "Expert Consultants",
 
   // What We Offer
   "WHAT DO WE OFFER": "What Do We Offer",
-  "WE ACCOMPANY YOU THROUGHOUT YOUR HAIR TRANSPLANT JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR FINAL CHECK-UP. YOUR SATISFACTION AND COMFORT ARE OUR TOP PRIORITIES.": "We accompany you throughout your hair transplant journey in Istanbul — from your first online consultation to your final check-up. Your satisfaction and comfort are our top priorities.",
-  "FREE ONLINE CONSULTATION WITH EXPERTS": "Free Online Consultation with Experts",
+  "WE ACCOMPANY YOU THROUGHOUT YOUR RHINOPLASTY JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR POST-OPERATIVE CARE. YOUR SATISFACTION, SAFETY, AND COMFORT ARE OUR TOP PRIORITIES.": "We accompany you throughout your rhinoplasty journey in Istanbul — from your first online consultation to your post-operative care. Your satisfaction, safety, and comfort are our top priorities.",
+  "FREE ONLINE CONSULTATION WITH SPECIALISTS": "Free Online Consultation with Specialists",
   "4-STAR HOTEL ACCOMMODATION": "4-Star Hotel Accommodation",
-  "POST-OP KIT & MEDICATIONS": "Post-Op Kit & Medications",
+  "POST-OP MEDICATIONS & AFTERCARE INSTRUCTIONS": "Post-Op Medications & Aftercare Instructions",
   "TRANSPARENT AND ALL-INCLUSIVE PRICING": "Transparent and All-Inclusive Pricing",
-  "HAIRLINE DESIGN & PERSONALIZED PLAN": "Hairline Design & Personalized Plan",
+  "NOSE ANALYSIS & PERSONALIZED TREATMENT PLAN": "Nose Analysis & Personalized Treatment Plan",
   "ALL TRANSFERS (AIRPORT-HOTEL-CLINIC)": "All Transfers (Airport-Hotel-Clinic)",
   "INTERPRETER SUPPORT AVAILABLE": "Interpreter Support Available",
   "24/7 AFTERCARE SUPPORT": "24/7 Aftercare Support",
@@ -146,8 +146,8 @@ export default {
   "FOLYCURE LOGO": "FOLYCURE Logo",
 
   // Additional translations for hardcoded text
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.",
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "The hair you've been dreaming of, as close as a free consultation.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "The nose you've been dreaming of, as close as a free consultation.",
   "GET A FREE CONSULTATION": "Get a Free Consultation",
   "FULL NAME": "Full Name",
   "EMAIL": "Email",

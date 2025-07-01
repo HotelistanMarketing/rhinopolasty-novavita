@@ -1,32 +1,32 @@
 export default {
   'hero.title': 'Türkiye\'de Saç Ekimi',
   // Hero Section
-  "HAIR TRANSPLANT IN TURKEY": "Türkiye'de Saç Ekimi",
-  "ALL-INCLUSIVE HAIR TRANSPLANT IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "Türkiye'de kapsamlı saç ekimi — uzman bakım, doğal sonuçlar, gizli maliyet yok.",
+  "RHINOPLASTY IN TURKEY": "Türkiye'de Saç Ekimi",
+  "ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "Türkiye'de kapsamlı saç ekimi — uzman bakım, doğal sonuçlar, gizli maliyet yok.",
   "BOOK YOUR FREE CONSULTATION": "Ücretsiz Konsültasyonunuzu Rezerve Edin",
 
   // Why Choose
-  "WHY FOLYCURE HAIR CLINIC": "Neden Folycure Hair Clinic",
-  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.": "Uluslararası tanınmış cerrahlarımız, gelişmiş kliniğimizde Sapphire FUE ve DHI gibi en son teknikleri kullanarak doğal görünümlü saç restorasyonu sağlar. İşlem, konaklama, transferler ve sonrası bakımı kapsayan uygun fiyatlı kapsamlı paketler sunuyoruz.",
+  "WHY NOVA FORMA": "Neden NOVA FORMA",
+  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.": "Uluslararası tanınmış cerrahlarımız, gelişmiş kliniğimizde en son teknikleri kullanarak dengeli, doğal görünümlü nasoal estetikler sağlar. İşlem, konaklama, transferler ve kişiselleştirilmiş sonrası bakımı kapsayan uygun fiyatlı kapsamlı paketler sunuyoruz.",
   "ASK US ANYTHING": "Bize Her Şeyi Sorun",
   
-  "+10.000": "+10.000",
-  "SUCCESSFUL OPERATIONS": "Başarılı Operasyon",
+  "+3000": "+3000",
+  "SUCCESSFUL SURGERIES": "Başarılı Operasyon",
   "+13": "+13",
   "YEARS EXPERIENCE": "Yıl Deneyim",
   "NATURAL": "Doğal",
-  "HAIRLINE RESULTS": "Saç Çizgisi Sonuçları",
+  "LOOKING RESULTS": "Görünüm Sonuçları",
   "+50": "+50",
   "EXPERT CONSULTANTS": "Uzman Danışman",
 
   // What We Offer
   "WHAT DO WE OFFER": "Ne Sunuyoruz",
-  "WE ACCOMPANY YOU THROUGHOUT YOUR HAIR TRANSPLANT JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR FINAL CHECK-UP. YOUR SATISFACTION AND COMFORT ARE OUR TOP PRIORITIES.": "İstanbul'daki saç ekimi yolculuğunuz boyunca size eşlik ediyoruz — ilk online konsültasyonunuzdan final kontrolünüze kadar. Memnuniyetiniz ve konforunuz bizim en büyük önceliğimizdir.",
-  "FREE ONLINE CONSULTATION WITH EXPERTS": "Uzmanlarla Ücretsiz Online Konsültasyon",
+  "WE ACCOMPANY YOU THROUGHOUT YOUR RHINOPLASTY JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR POST-OPERATIVE CARE. YOUR SATISFACTION, SAFETY, AND COMFORT ARE OUR TOP PRIORITIES.": "İstanbul'daki rhinoplasty yolculuğunuz boyunca size eşlik ediyoruz — ilk online konsültasyonunuzdan post-operatif bakımınıza kadar. Memnuniyetiniz, güvenliğiniz ve konforunuz bizim en büyük önceliğimizdir.",
+  "FREE ONLINE CONSULTATION WITH SPECIALISTS": "Uzmanlarla Ücretsiz Online Danışmanlık",
   "4-STAR HOTEL ACCOMMODATION": "4 Yıldızlı Otel Konaklaması",
-  "POST-OP KIT & MEDICATIONS": "Ameliyat Sonrası Kit & İlaçlar",
+  "POST-OP MEDICATIONS & AFTERCARE INSTRUCTIONS": "Ameliyat Sonrası İlaçlar & Ameliyat Sonrası İzlem",
   "TRANSPARENT AND ALL-INCLUSIVE PRICING": "Şeffaf ve Kapsamlı Fiyatlandırma",
-  "HAIRLINE DESIGN & PERSONALIZED PLAN": "Saç Çizgisi Tasarımı & Kişiselleştirilmiş Plan",
+  "NOSE ANALYSIS & PERSONALIZED TREATMENT PLAN": "Burun Analizi & Kişiselleştirilmiş İşlem Planı",
   "ALL TRANSFERS (AIRPORT-HOTEL-CLINIC)": "Tüm Transferler (Havalimanı-Otel-Klinik)",
   "INTERPRETER SUPPORT AVAILABLE": "Tercüman Desteği Mevcut",
   "24/7 AFTERCARE SUPPORT": "24/7 Ameliyat Sonrası Destek",
@@ -147,8 +147,8 @@ export default {
   "FOLYCURE LOGO": "FOLYCURE Logo",
 
   // Additional translations for hardcoded text
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "HAYAL ETTİĞİNİZ SAÇ, ÜCRETSİZ BİR KONSÜLTASYON KADAR YAKIN.",
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "Hayal ettiğiniz saç, ücretsiz bir konsültasyon kadar yakın.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "HAYAL ETTİĞİNİZ NOSE, ÜCRETSİZ BİR KONSÜLTASYON KADAR YAKIN.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "Hayal ettiğiniz nose, ücretsiz bir konsültasyon kadar yakın.",
   "GET A FREE CONSULTATION": "Ücretsiz Konsültasyon Alın",
   "FULL NAME": "Ad Soyad",
   "EMAIL": "E-posta",

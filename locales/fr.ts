@@ -1,32 +1,32 @@
 export default {
   'hero.title': 'Greffe de cheveux en Turquie',
   // Hero Section
-  "HAIR TRANSPLANT IN TURKEY": "Greffe de cheveux en Turquie",
-  "ALL-INCLUSIVE HAIR TRANSPLANT IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "Greffe de cheveux tout inclus en Turquie — soins experts, résultats naturels, pas de coûts cachés.",
+  "RHINOPLASTY IN TURKEY": "Rhinoplasty en Turquie",
+  "ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "Rhinoplasty tout inclus en Turquie — soins experts, résultats naturels, pas de coûts cachés.",
   "BOOK YOUR FREE CONSULTATION": "Réservez votre consultation gratuite",
 
   // Why Choose
-  "WHY FOLYCURE HAIR CLINIC": "Pourquoi choisir Folycure",
-  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.": "Nos chirurgiens internationalement reconnus utilisent les dernières techniques comme Sapphire FUE et DHI dans notre clinique avancée pour offrir une restauration capillaire naturelle. Nous proposons des forfaits tout inclus abordables couvrant la procédure, l'hébergement, les transferts et les soins postopératoires.",
+  "WHY NOVA FORMA": "Pourquoi choisir Folycure",
+  "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.": "Nos chirurgiens internationalement reconnus utilisent les dernières techniques en rhinoplastie pour offrir des résultats naturels et équilibrés. Nous proposons des forfaits tout inclus abordables couvrant la procédure, l'hébergement, les transferts et les soins postopératoires.",
   "ASK US ANYTHING": "Posez-nous vos questions",
   
-  "+10.000": "+10.000",
-  "SUCCESSFUL OPERATIONS": "Opérations réussies",
+  "+3000": "+3000",
+  "SUCCESSFUL SURGERIES": "Opérations réussies",
   "+13": "+13",
   "YEARS EXPERIENCE": "Années d'expérience",
   "NATURAL": "Naturel",
-  "HAIRLINE RESULTS": "Résultats de la ligne de démarcation",
+  "LOOKING RESULTS": "Résultats",
   "+50": "+50",
   "EXPERT CONSULTANTS": "Consultants experts",
 
   // What We Offer
   "WHAT DO WE OFFER": "Que proposons-nous",
-  "WE ACCOMPANY YOU THROUGHOUT YOUR HAIR TRANSPLANT JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR FINAL CHECK-UP. YOUR SATISFACTION AND COMFORT ARE OUR TOP PRIORITIES.": "Nous vous accompagnons tout au long de votre parcours de greffe de cheveux à Istanbul — de votre première consultation en ligne à votre contrôle final. Votre satisfaction et votre confort sont nos priorités absolues.",
-  "FREE ONLINE CONSULTATION WITH EXPERTS": "Consultation en ligne gratuite avec des experts",
+  "WE ACCOMPANY YOU THROUGHOUT YOUR RHINOPLASTY JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR POST-OPERATIVE CARE. YOUR SATISFACTION, SAFETY, AND COMFORT ARE OUR TOP PRIORITIES.": "Nous vous accompagnons tout au long de votre parcours de rhinoplastie à Istanbul — de votre première consultation en ligne à votre soins postopératoires. Votre satisfaction, sécurité et confort sont nos priorités absolues.",
+  "FREE ONLINE CONSULTATION WITH SPECIALISTS": "Consultation en ligne gratuite avec des experts",
   "4-STAR HOTEL ACCOMMODATION": "Hébergement hôtel 4 étoiles",
   "POST-OP KIT & MEDICATIONS": "Kit postopératoire et médicaments",
   "TRANSPARENT AND ALL-INCLUSIVE PRICING": "Tarification transparente et tout inclus",
-  "HAIRLINE DESIGN & PERSONALIZED PLAN": "Conception de la ligne de démarcation et plan personnalisé",
+  "NOSE ANALYSIS & PERSONALIZED TREATMENT PLAN": "Analyse du nez et plan de traitement personnalisé",
   "ALL TRANSFERS (AIRPORT-HOTEL-CLINIC)": "Tous les transferts (aéroport-hôtel-clinique)",
   "INTERPRETER SUPPORT AVAILABLE": "Support d'interprète disponible",
   "24/7 AFTERCARE SUPPORT": "Support postopératoire 24/7",
@@ -147,8 +147,8 @@ export default {
   "FOLYCURE LOGO": "Logo FOLYCURE",
 
   // Additional translations for hardcoded text
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "LES CHEVEUX DONT VOUS RÊVIEZ, AUSSI PROCHE QU'UNE CONSULTATION GRATUITE.",
-  "THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "Les cheveux dont vous rêviez, aussi proche qu'une consultation gratuite.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION.": "LE NOSE DONT VOUS RÊVIEZ, AUSSI PROCHE QU'UNE CONSULTATION GRATUITE.",
+  "THE NOSE YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION": "Le nose dont vous rêviez, aussi proche qu'une consultation gratuite.",
   "GET A FREE CONSULTATION": "Obtenir une consultation gratuite",
   "FULL NAME": "Nom complet",
   "EMAIL": "Courriel",

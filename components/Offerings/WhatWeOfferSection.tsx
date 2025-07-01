@@ -18,7 +18,7 @@ const offerItems = [
     {
         id: 1,
         ImageComponent: <ConsultationIcon />,
-        label: 'FREE ONLINE CONSULTATION WITH EXPERTS',
+        label: 'FREE ONLINE CONSULTATION WITH SPECIALISTS',
     },
     {
         id: 2,
@@ -28,7 +28,7 @@ const offerItems = [
     {
         id: 3,
         ImageComponent: <MedicKitIcon />,
-        label: 'POST-OP KIT & MEDICATIONS',
+        label: 'POST-OP MEDICATIONS & AFTERCARE INSTRUCTIONS',
     },
     {
         id: 4,
@@ -39,7 +39,7 @@ const offerItems = [
     {
         id: 5,
         ImageComponent: <HairLossIcon />,
-        label: 'HAIRLINE DESIGN & PERSONALIZED PLAN',
+        label: 'NOSE ANALYSIS & PERSONALIZED TREATMENT PLAN',
     },
     {
         id: 6,
@@ -70,7 +70,7 @@ export default function WhatWeOfferSection() {
                 <div className="flex flex-col justify-start lg:justify-center px-5 lg:px-0 mt-8 lg:mt-0">
                     <h2 className="text-[#1F2B6C] font-semibold text-2xl lg:text-[52px] lg:leading-[62px] mb-2 lg:mb-4 mt-0 w-full text-center lg:text-left">{t("WHAT DO WE OFFER")}</h2>
                     <p className="text-black text-sm lg:text-[16px] leading-[19px] font-normal mb-8 max-w-[595px] text-center lg:text-left">
-                        {t("WE ACCOMPANY YOU THROUGHOUT YOUR HAIR TRANSPLANT JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR FINAL CHECK-UP. YOUR SATISFACTION AND COMFORT ARE OUR TOP PRIORITIES.")}
+                        {t("WE ACCOMPANY YOU THROUGHOUT YOUR RHINOPLASTY JOURNEY IN ISTANBUL — FROM YOUR FIRST ONLINE CONSULTATION TO YOUR POST-OPERATIVE CARE. YOUR SATISFACTION, SAFETY, AND COMFORT ARE OUR TOP PRIORITIES.")}
                     </p>
                     <div className="flex flex-col lg:flex-row gap-3 lg:gap-8">
                         <div className="flex flex-col gap-3 lg:gap-8">
