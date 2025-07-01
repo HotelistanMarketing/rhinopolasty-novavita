@@ -1,0 +1,3 @@
+
+As you know, this is the figma generated css, which is low quality code, for example it uses unnecessary position: absolute all over the place and a lot of other mistakes, 
+use it as a refrence to find the dimentions, achieve the same styles and create high quality styling using talwind give me hight quality pixe perfect code 
