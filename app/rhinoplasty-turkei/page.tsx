@@ -8,7 +8,7 @@ import JourneyStepsSection from '@/components/JourneyStepsSection';
 import PatientJourneySlider from '@/components/PatientJourneySlider/PatientJourneySlider';
 import BeforeAfterExamples from '@/components/BeforeAfterExamples/BeforeAfterExamples';
 import { FolycureComparison, GetConsultation, TestimonialsSlider } from '@/components';
-import { FolicountAISection } from '@/components';
+// import { FolicountAISection } from '@/components';
 import TicketAndReviewsSection from '@/components/TicketAndReviewsSection/TicketAndReviewsSection';
 import Reviews from '@/components/Testimonials/Reviews';
 import BeforeAfterBannerMobile from '@/components/BeforeAfter/BeforeAfterBannerMobile';
