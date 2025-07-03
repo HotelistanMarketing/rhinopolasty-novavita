@@ -47,13 +47,13 @@ const FolycureComparison: FC = () => {
                     <div className="lg:w-1/2">
                         <div className="relative w-full h-[242px] lg:h-[434px] mb-[14px] lg:mb-[29px]">
                             <Image
-                                src="/images/doctor-drawing-on-patient-head.png"
+                                src="/images/doctor-patient-speaking.png"
                                 alt={t("DOCTOR DRAWING ON PATIENT HEAD")}
                                 fill
                                 className="object-cover rounded-tr-[200px] !hidden lg:!inline-block"
                             />
                             <Image
-                                src="/images/doctor-on-scalp-of-man-drawing-mobile.png"
+                                src="/images/doctor-patient-speaking.png"
                                 alt={t("DOCTOR DRAWING ON PATIENT HEAD MOBILE")}
                                 fill
                                 className="object-cover lg:!hidden !inline-block"

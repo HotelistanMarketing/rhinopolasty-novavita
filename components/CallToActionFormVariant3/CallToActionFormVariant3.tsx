@@ -47,8 +47,8 @@ const CallToActionFormVariant3: React.FC = () => {
                 {/* Right side - Image */}
                 <div className="hidden lg:inline-block w-[706px] h-full relative">
                     <Image
-                        src="/images/man-looking-into-mirror.png"
-                        alt={t("MAN LOOKING INTO MIRROR")}
+                        src="/images/woman-looking-in-the-mirror.png"
+                        alt={"woman looking into mirror"}
                         fill
                         className="object-cover"
                         quality={100}

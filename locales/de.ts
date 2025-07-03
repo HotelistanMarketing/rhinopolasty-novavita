@@ -4,6 +4,10 @@ export default {
   "ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "All-inclusive rhinoplasty in der Türkei — fachkundige Betreuung, natürliche Ergebnisse, keine versteckten Kosten.",
   "BOOK YOUR FREE CONSULTATION": "Buchen Sie Ihre kostenlose Beratung",
 
+  // Call to Action Form
+  "RHINOPLASTY!": "Rhinoplasty!",
+  "WOMAN WITH RHINOPLASTY": "Frau mit Rhinoplasty",
+
   // Why Choose
   "WHY NOVA FORMA": "Warum NOVA FORMA wählen?",
   "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.": "Unsere international anerkannten Chirurgen verwenden die neuesten Techniken in der Rhinoplasty, um natürlich aussehende Nasenästhetik zu erreichen. Wir bieten erschwingliche All-inclusive-Pakete, die den Eingriff, die Unterkunft, Transfers und Nachsorge abdecken.",

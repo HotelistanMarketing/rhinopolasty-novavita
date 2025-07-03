@@ -14,7 +14,7 @@ export default function BeforeAfterBanner() {
       {/* <div className="absolute inset-0  w-full h-full z-0" /> */}
       <div className="container relative flex flex-col lg:grid grid-cols-3 w-full items-center mx-auto px-4 h-full" >
         {/* Before-After Image */}
-        <div className="h-full relative">
+        {/* <div className="h-full relative">
 
       
           <Image
@@ -25,7 +25,7 @@ export default function BeforeAfterBanner() {
             className="absolute !bottom-0 left-0 !right-auto !top-auto !h-[132px] !w-[487px]"
             
           />
-        </div>
+        </div> */}
         {/* Text and Button */}
         <div className="flex flex-col lg:flex-row items-center justify-between w-full ml-8">
           <p className="text-[#232A5C] font-semibold text-[20px] mb-4 lg:mb-0">
@@ -33,6 +33,7 @@ export default function BeforeAfterBanner() {
           </p>
          
         </div>
+        <div></div>
         <UiLink
             href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`}
             target='_blank'

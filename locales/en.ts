@@ -6,7 +6,7 @@ export default {
 
   // Call to Action Form
   "RHINOPLASTY!": "Rhinoplasty!",
-
+  "WOMAN WITH RHINOPLASTY": "Woman with Rhinoplasty",
 
   // Why Choose
   "WHY NOVA FORMA": "Why NOVA FORMA",

@@ -27,7 +27,7 @@ const GetConsultation: React.FC = () => {
                 </div>
                 {/* Right: Man Combing Hair Image */}
                 <div className="hidden relative right-[-37px] lg:inline-block z-0 ">
-                    <Image src="/images/man-combing.png" width={745} height={672} alt={t("MAN COMBING HAIR")} className="" quality={100} />
+                    <Image src="/images/woman-after-rhinoplasty.png" width={745} height={672} alt={t("WOMAN WITH RHINOPLASTY")} className="" quality={100} />
                     <div className="absolute left-0 bottom-0 z-20 w-full max-w-[630px] h-[167px] bg-white rounded-tr-[100px] flex items-center pl-10 pr-[64px] py-8 shadow-lg">
                         <Reviews wrapperClassNames="w-full flex-row justify-between" googleClassNames="!w-[244px] !h-[94px]" trustPilotClassNames="!w-[254px] !h-[106px]" />
                     </div>

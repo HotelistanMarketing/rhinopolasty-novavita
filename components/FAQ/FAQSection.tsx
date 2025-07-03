@@ -74,8 +74,8 @@ export default function FAQSection() {
         <div className="hidden lg:flex flex-col items-center justify-between h-[801px] min-w-[505px] max-w-[505px] relative ml-12">
           <div className="w-[505px] h-[713px] bg-[#D9D9D9] rounded-tr-[200px] rounded-br-none rounded-tl-none rounded-bl-none overflow-hidden relative flex items-center justify-center">
             <Image
-              src="/images/doctor-scalp-dark-room.png"
-              alt="Doctor performing hair transplant"
+              src="/images/doctor-working-on-nose.jpg"
+              alt="Doctor performing nose job"
               fill
               className="object-cover object-center rounded-tr-[200px]"
               priority
