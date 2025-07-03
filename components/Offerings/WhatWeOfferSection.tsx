@@ -116,10 +116,10 @@ export default function WhatWeOfferSection() {
                     <div className="max-w-[545px] flex justify-start lg:justify-center flex-col items-start border rounded-[20px] rounded-tr-[100px] border-black px-[24px] lg:pl-[70px] lg:pr-[50px] py-[30px] lg:py-[64px] gap-3 lg:gap-5">
                         <div className="flex flex-row-reverse lg:flex-row items-center justify-center lg:justify-start lg:gap-5 mb-2">
                             <Image src="/flight-ticket-included.png" alt="Flight Ticket Included" width={95} height={95} />
-                            <span className="text-[#1F2B6C] font-light text-2xl lg:font-medium lg:text-[40px] lg:leading-[47px]">{t("LET'S PLAN YOUR HAIR TRANSPLANT!")}</span>
+                            <span className="text-[#1F2B6C] font-light text-2xl lg:font-medium lg:text-[40px] lg:leading-[47px]">{t("LET'S PLAN YOUR RHINOPLASTY!")}</span>
                         </div>
                         <p className="text-black text-[16px] leading-[19px] font-normal max-w-[405px] mb-2">
-                            {t("WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY")}
+                            {t("WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.")}
                         </p>
                         <PlannerForm inputWidthClass="lg:w-[405px]" className="w-full" />
                     </div>

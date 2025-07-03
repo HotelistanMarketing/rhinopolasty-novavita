@@ -8,44 +8,50 @@ export default function TypesOfTransplant() {
 
   const procedures = [
     {
-      title: t("FUE HAIR TRANSPLANT"),
-      description: t("FUE (FOLLICULAR UNIT EXTRACTION) IS A MODERN HAIR TRANSPLANT METHOD THAT INVOLVES HARVESTING INDIVIDUAL FOLLICLES AND IMPLANTING THEM INTO THE BALDING AREAS, ENSURING A NATURAL AND SCAR-FREE RESULT."),
+      title: t("RHINOPLASTY / NOSE JOB"),
+      description: t("RHINOPLASTY, COMMONLY KNOWN AS A NOSE JOB, IS A PROCEDURE THAT RESHAPES THE NOSE TO ENHANCE FACIAL HARMONY OR ADDRESS BREATHING ISSUES. WHETHER FOR COSMETIC OR MEDICAL PURPOSES, RHINOPLASTY CAN SIGNIFICANTLY IMPROVE BOTH APPEARANCE AND FUNCTION."),
       image: '/images/fue-hair-transplant.png',
-      alt: t("FUE HAIR TRANSPLANT"),
+      alt: t("RHINOPLASTY / NOSE JOB"),
     },
     {
-      title: t("DHI HAIR TRANSPLANT"),
-      description: t("DHI (DIRECT HAIR IMPLANTATION) USES A SPECIAL IMPLANTER PEN TO PLACE THE HAIR FOLLICLES DIRECTLY WITHOUT THE NEED TO OPEN CHANNELS. IT ALLOWS FOR HIGHER DENSITY AND PRECISION."),
+      title: t("CLOSED RHINOPLASTY"),
+      description: t("CLOSED RHINOPLASTY IS A SURGICAL TECHNIQUE WHERE INCISIONS ARE MADE INSIDE THE NOSTRILS, LEAVING NO VISIBLE SCARS. THIS APPROACH IS GENERALLY RECOMMENDED FOR PATIENTS REQUIRING MINOR RESHAPING OR CORRECTION, SUCH AS BRIDGE REFINEMENT OR NOSTRIL ADJUSTMENT. IT TYPICALLY INVOLVES SHORTER RECOVERY TIMES AND LESS SWELLING."),
       image: '/images/dhi-hair-transplant.png',
-      alt: t("DHI HAIR TRANSPLANT"),
+      alt: t("CLOSED RHINOPLASTY"),
     },
     {
-      title: t("BEARD TRANSPLANT"),
-      description: t("BEARD TRANSPLANT RESTORES PATCHY OR THIN FACIAL HAIR BY TRANSFERRING HEALTHY HAIR FOLLICLES TO THE BEARD AREA. IDEAL FOR A FULLER, MORE DEFINED LOOK."),
+      title: t("SEPTORHINOPLASTY"),
+      description: t("SEPTORHINOPLASTY COMBINES BOTH FUNCTIONAL AND AESTHETIC NASAL SURGERY. IT ADDRESSES NOT ONLY COSMETIC CONCERNS LIKE NASAL SHAPE BUT ALSO CORRECTS A DEVIATED SEPTUM TO IMPROVE BREATHING. THIS PROCEDURE IS IDEAL FOR PATIENTS EXPERIENCING BOTH STRUCTURAL AND AESTHETIC NASAL ISSUES."),
       image: '/images/beard-transplant.png',
-      alt: t("BEARD TRANSPLANT"),
+      alt: t("SEPTORHINOPLASTY"),
     },
     {
-      title: t("EYEBROW TRANSPLANT"),
-      description: t("EYEBROW TRANSPLANT ENHANCES OR RECONSTRUCTS SPARSE EYEBROWS WITH NATURAL HAIR FOLLICLES FOR A SYMMETRICAL AND LONG-LASTING RESULT."),
+      title: t("ETHNIC RHINOPLASTY"),
+      description: t("ETHNIC RHINOPLASTY FOCUSES ON ENHANCING THE NOSE WHILE PRESERVING THE PATIENT’S UNIQUE ETHNIC FEATURES. THIS PROCEDURE REQUIRES A TAILORED APPROACH THAT RESPECTS CULTURAL AESTHETICS AND INDIVIDUAL ANATOMY, OFFERING HARMONIOUS RESULTS WITHOUT COMPROMISING IDENTITY."),
       image: '/images/eyebrow-transplant.png',
-      alt: t("EYEBROW TRANSPLANT"),
+      alt: t("ETHNIC RHINOPLASTY"),
+    },
+    {
+      title: t("BARBIE NOSE"),
+      description: t("BARBIE NOSE RHINOPLASTY AIMS TO ACHIEVE A HIGHLY REFINED, LIFTED, AND SMALL NOSE TIP, OFTEN WITH A VERY DELICATE AND FEMININE CONTOUR. IT'S POPULAR AMONG THOSE SEEKING A DRAMATIC TRANSFORMATION THAT EMPHASIZES ELEGANCE AND FACIAL BALANCE."),
+      image: '/images/eyebrow-transplant.png',
+      alt: t("BARBIE NOSE"),
     },
   ];
 
   return (
     <section className="bg-[#EAF5FB] lg:py-12 px-4 lg:px-0">
       <h2 className="text-center text-[#02163B] font-rubik font-bold text-2xl lg:text-5xl mb-[27px] lg:mb-12">
-        {t("TYPES OF")} <br className="block lg:hidden" /> {t("HAIR TRANSPLANT PROCEDURES")}
+        {t("TYPES OF")} <br className="block lg:hidden" /> {t("RHINOPLASTY PROCEDURES")}
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-[24px] lg:max-w-[1320px] mx-auto">
         {procedures.map((proc, idx) => (
           <div
             key={proc.title}
-            className="relative grid grid-cols-2 lg:flex flex-row rounded-none overflow-hidden h-[327px] lg:h-[275px]"
+            className="relative grid grid-cols-2 lg:flex flex-row rounded-none overflow-hidden h-[327px]"
           >
             {/* Image Side */}
-            <div className="relative lg:w-[315px] lg:h-[275px] flex-shrink-0 ">
+            <div className="relative lg:w-[315px] flex-shrink-0 ">
               <Image
                 src={proc.image}
                 alt={proc.alt}

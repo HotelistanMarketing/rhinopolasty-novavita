@@ -18,10 +18,10 @@ const GetConsultation: React.FC = () => {
                         <Image src="/flight-ticket-included.png" alt={t("FLIGHT TICKET INCLUDED")} fill className="object-contain" />
                     </div>
                     <h2 className="text-white font-rubik font-light lg:font-normal text-2xl lg:text-[40px] leading-[28px] lg:leading-[47px] mb-2 mt-4 md:mt-0">
-                        {t("LET'S PLAN YOUR")} <br /> <span className="font-bold text-[30px] lg:text-[40px]">{t("HAIR TRANSPLANT!")}</span>
+                        {t("LET'S PLAN YOUR")} <br /> <span className="font-bold text-[30px] lg:text-[40px]">{t("RHINOPLASTY!")}</span>
                     </h2>
                     <p className="text-white text-sm lg:text-[16px] leading-[19px] font-normal mb-3 lg:mb-6 max-w-[468px]">
-                        {t("WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY")}
+                        {t("WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.")}
                     </p>
                     <PlannerForm inputWidthClass="w-full" className="w-full max-w-[484px]" />
                 </div>

@@ -57,10 +57,13 @@ const PatientJourneySlider: React.FC<PatientJourneySliderProps> = ({
   return (
     <section className={`w-full flex flex-col items-center lg:pt-[64px] bg-transparent overflow-hidden pb-4 lg:pb-0 ${className}`}>
       {/* Section Title */}
-      <header className="mb-8 lg:mb-12">
+      <header className="mb-8 lg:mb-12 flex flex-col items-center">
         <h2 className="font-rubik font-semibold text-2xl lg:text-[52px] lg:leading-[62px] text-[#1F2B6C] text-center max-w-[779px]">
           {displayTitle}
         </h2>
+        <p className="font-rubik text-base font-normal text-black text-center max-w-[295px] mb-[20px] lg:mb-16 text-center">
+          {t("WATCH REAL PATIENT STORIES AND SEE HOW THEIR LIVES CHANGED WITH RHINOPLASTY IN TURKEY.")}
+        </p>
       </header>
 
       {/* Slider Container */}

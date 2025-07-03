@@ -31,11 +31,11 @@ export default {
   "INTERPRETER SUPPORT AVAILABLE": "Supporto Interprete Disponibile",
   "24/7 AFTERCARE SUPPORT": "Supporto Post-Operatorio 24/7",
   "TAKE THE NEXT STEP": "Fai il Prossimo Passo",
-  "LET'S PLAN YOUR HAIR TRANSPLANT!": "Pianifichiamo il Tuo Trapianto di Capelli!",
-  "WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY": "Quando ci contatti, un assistente medico ti contatterà e risponderà a tutte le tue domande. Siamo qui per aiutarti e supportarti in ogni passo del percorso",
+  "LET'S PLAN YOUR RHINOPLASTY!": "Pianifichiamo il Tuo Rhinoplasty!",
+  "WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.": "Quando ci contatti, un consulente medico ti contatterà e risponderà a tutte le tue domande. Siamo qui per aiutarti e supportarti in ogni passo del percorso",
 
   // Journey Steps
-  "YOUR HAIR TRANSPLANT JOURNEY": "Il Tuo Viaggio di Trapianto di Capelli",
+  "YOUR RHINOPLASTY JOURNEY": "Il Tuo Viaggio di Trapianto di Capelli",
   "YOUR JOURNEY TO CONFIDENCE STARTS HERE": "Il Tuo Viaggio verso la Fiducia Inizia Qui",
   "ONLINE CONSULTATION": "Consulenza Online",
   "ARRIVAL IN ISTANBUL": "Arrivo a Istanbul",
@@ -43,7 +43,7 @@ export default {
   "HAIRLINE DESIGN & PRE-OP TESTS": "Design dell'Attaccatura e Test Pre-Operatori",
   "HAIR TRANSPLANT (FUE OR DHI)": "Trapianto di Capelli (FUE o DHI)",
   "POST-OP CARE & INSTRUCTIONS": "Cure Post-Operatorie e Istruzioni",
-  "RECOVERY & HAIR GROWTH JOURNEY": "Recupero e Viaggio di Crescita dei Capelli",
+  "RECOVERY & SWELLING REDUCTION PROCESS": "Recupero e Viaggio di Crescita dei Capelli",
   "ENJOY YOUR NEW LOOK!": "Goditi il Tuo Nuovo Look!",
   "START MY JOURNEY": "Inizia il Mio Viaggio",
 

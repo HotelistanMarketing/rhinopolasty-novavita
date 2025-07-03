@@ -4,6 +4,10 @@ export default {
   "ALL-INCLUSIVE RHINOPLASTY IN TURKEY — EXPERT CARE, NATURAL RESULTS, NO HIDDEN COSTS.": "All-inclusive rhinoplasty in Turkey — expert care, natural results, no hidden costs.",
   "BOOK YOUR FREE CONSULTATION": "Book Your Free Consultation",
 
+  // Call to Action Form
+  "RHINOPLASTY!": "Rhinoplasty!",
+
+
   // Why Choose
   "WHY NOVA FORMA": "Why NOVA FORMA",
   "OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.": "Our internationally recognized surgeons use the latest techniques in rhinoplasty to deliver balanced, natural-looking nasal aesthetics. At our advanced clinic, we offer affordable all-inclusive packages covering the procedure, accommodation, transfers, and personalized aftercare.",
@@ -30,19 +34,19 @@ export default {
   "INTERPRETER SUPPORT AVAILABLE": "Interpreter Support Available",
   "24/7 AFTERCARE SUPPORT": "24/7 Aftercare Support",
   "TAKE THE NEXT STEP": "Take the Next Step",
-  "LET'S PLAN YOUR HAIR TRANSPLANT!": "Let's Plan Your Hair Transplant!",
-  "WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY": "When you contact us, a medical assistant will contact you and answer all of your questions. We're here to help and support you every step of the way",
+  "LET'S PLAN YOUR RHINOPLASTY!": "Let's Plan Your Rhinoplasty!",
+  "WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.": "When you contact us, a medical consultant will reach out to answer all your questions and help you organize your journey step-by-step. We’re here to assist you at every stage — safely and professionally.",
 
   // Journey Steps
-  "YOUR HAIR TRANSPLANT JOURNEY": "Your Hair Transplant Journey",
+  "YOUR RHINOPLASTY JOURNEY": "Your Rhinoplasty Journey",
   "YOUR JOURNEY TO CONFIDENCE STARTS HERE": "Your Journey to Confidence Starts Here",
   "ONLINE CONSULTATION": "Online Consultation",
   "ARRIVAL IN ISTANBUL": "Arrival in Istanbul",
   "MEETING WITH YOUR MEDICAL TEAM": "Meeting with Your Medical Team",
-  "HAIRLINE DESIGN & PRE-OP TESTS": "Hairline Design & Pre-Op Tests",
-  "HAIR TRANSPLANT (FUE OR DHI)": "Hair Transplant (FUE or DHI)",
+  "3D NOSE DESIGN & PRE-OP TESTS": "3D Nose Design & Pre-Op Tests",
+  "RHINOPLASTY PROCEDURE (OPEN OR CLOSED)": "Rhinoplasty Procedure (Open or Closed)",
   "POST-OP CARE & INSTRUCTIONS": "Post-Op Care & Instructions",
-  "RECOVERY & HAIR GROWTH JOURNEY": "Recovery & Hair Growth Journey",
+  "RECOVERY & SWELLING REDUCTION PROCESS": "Recovery & Swelling Reduction Process",
   "ENJOY YOUR NEW LOOK!": "Enjoy Your New Look!",
   "START MY JOURNEY": "Start My Journey",
 
@@ -85,8 +89,8 @@ export default {
   // Offerings
   "FREE CONSULTATION": "Free Consultation",
   "HAIR TRANSPLANT": "Hair Transplant",
-  "BEARD TRANSPLANT": "Beard Transplant",
-  "EYEBROW TRANSPLANT": "Eyebrow Transplant",
+  "SEPTORHINOPLASTY": "Septorhinoplasty",
+  "ETHNIC RHINOPLASTY": "Ethnic Rhinoplasty",
   "PRP TREATMENT": "PRP Treatment",
   "SAPPHIRE FUE": "Sapphire FUE",
   "DHI TECHNIQUE": "DHI Technique",
@@ -98,7 +102,7 @@ export default {
   "SLIDE": "slide",
 
   // Before & After Examples
-  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING HAIR GROWTH.": "See the real transformations of our happy patients with natural-looking hair growth.",
+  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING NOSE": "See the real transformations of our happy patients with natural-looking nose",
   "GRAFT": "Graft",
   "TECHNIQUES": "Techniques",
   "AGE": "Age",
@@ -117,15 +121,17 @@ export default {
 
   // Types of Transplant
   "TYPES OF": "Types of",
-  "HAIR TRANSPLANT PROCEDURES": "Hair Transplant Procedures",
-  "FUE HAIR TRANSPLANT": "FUE Hair Transplant",
-  "FUE (FOLLICULAR UNIT EXTRACTION) IS A MODERN HAIR TRANSPLANT METHOD THAT INVOLVES HARVESTING INDIVIDUAL FOLLICLES AND IMPLANTING THEM INTO THE BALDING AREAS, ENSURING A NATURAL AND SCAR-FREE RESULT.": "FUE (Follicular Unit Extraction) is a modern hair transplant method that involves harvesting individual follicles and implanting them into the balding areas, ensuring a natural and scar-free result.",
-  "DHI HAIR TRANSPLANT": "DHI Hair Transplant",
-  "DHI (DIRECT HAIR IMPLANTATION) USES A SPECIAL IMPLANTER PEN TO PLACE THE HAIR FOLLICLES DIRECTLY WITHOUT THE NEED TO OPEN CHANNELS. IT ALLOWS FOR HIGHER DENSITY AND PRECISION.": "DHI (Direct Hair Implantation) uses a special implanter pen to place the hair follicles directly without the need to open channels. It allows for higher density and precision.",
-  "BEARD TRANSPLANT RESTORES PATCHY OR THIN FACIAL HAIR BY TRANSFERRING HEALTHY HAIR FOLLICLES TO THE BEARD AREA. IDEAL FOR A FULLER, MORE DEFINED LOOK.": "Beard transplant restores patchy or thin facial hair by transferring healthy hair follicles to the beard area. Ideal for a fuller, more defined look.",
-  "EYEBROW TRANSPLANT ENHANCES OR RECONSTRUCTS SPARSE EYEBROWS WITH NATURAL HAIR FOLLICLES FOR A SYMMETRICAL AND LONG-LASTING RESULT.": "Eyebrow transplant enhances or reconstructs sparse eyebrows with natural hair follicles for a symmetrical and long-lasting result.",
+  "RHINOPLASTY PROCEDURES": "Rhinoplasty Procedures",
+  "RHINOPLASTY / NOSE JOB": "Rhinoplasty / Nose Job",
+  "RHINOPLASTY, COMMONLY KNOWN AS A NOSE JOB, IS A PROCEDURE THAT RESHAPES THE NOSE TO ENHANCE FACIAL HARMONY OR ADDRESS BREATHING ISSUES. WHETHER FOR COSMETIC OR MEDICAL PURPOSES, RHINOPLASTY CAN SIGNIFICANTLY IMPROVE BOTH APPEARANCE AND FUNCTION.": "Rhinoplasty, commonly known as a nose job, is a procedure that reshapes the nose to enhance facial harmony or address breathing issues. Whether for cosmetic or medical purposes, rhinoplasty can significantly improve both appearance and function.",
+  "CLOSED RHINOPLASTY": "Closed Rhinoplasty",
+  "CLOSED RHINOPLASTY IS A SURGICAL TECHNIQUE WHERE INCISIONS ARE MADE INSIDE THE NOSTRILS, LEAVING NO VISIBLE SCARS. THIS APPROACH IS GENERALLY RECOMMENDED FOR PATIENTS REQUIRING MINOR RESHAPING OR CORRECTION, SUCH AS BRIDGE REFINEMENT OR NOSTRIL ADJUSTMENT. IT TYPICALLY INVOLVES SHORTER RECOVERY TIMES AND LESS SWELLING.": "Closed rhinoplasty is a surgical technique where incisions are made inside the nostrils, leaving no visible scars. This approach is generally recommended for patients requiring minor reshaping or correction, such as bridge refinement or nostril adjustment. It typically involves shorter recovery times and less swelling.",
+  "SEPTORHINOPLASTY COMBINES BOTH FUNCTIONAL AND AESTHETIC NASAL SURGERY. IT ADDRESSES NOT ONLY COSMETIC CONCERNS LIKE NASAL SHAPE BUT ALSO CORRECTS A DEVIATED SEPTUM TO IMPROVE BREATHING. THIS PROCEDURE IS IDEAL FOR PATIENTS EXPERIENCING BOTH STRUCTURAL AND AESTHETIC NASAL ISSUES.": "Septorhinoplasty combines both functional and aesthetic nasal surgery. It addresses not only cosmetic concerns like nasal shape but also corrects a deviated septum to improve breathing. This procedure is ideal for patients experiencing both structural and aesthetic nasal issues.",
+  "ETHNIC RHINOPLASTY FOCUSES ON ENHANCING THE NOSE WHILE PRESERVING THE PATIENT’S UNIQUE ETHNIC FEATURES. THIS PROCEDURE REQUIRES A TAILORED APPROACH THAT RESPECTS CULTURAL AESTHETICS AND INDIVIDUAL ANATOMY, OFFERING HARMONIOUS RESULTS WITHOUT COMPROMISING IDENTITY.": "Ethnic rhinoplasty focuses on enhancing the nose while preserving the patient’s unique ethnic features. This procedure requires a tailored approach that respects cultural aesthetics and individual anatomy, offering harmonious results without compromising identity.",
   "ASK US VIA WHATSAPP": "Ask Us Via WhatsApp",
   "WHATSAPP": "WhatsApp",
+  "BARBIE NOSE": "Barbie Nose",
+  "BARBIE NOSE RHINOPLASTY AIMS TO ACHIEVE A HIGHLY REFINED, LIFTED, AND SMALL NOSE TIP, OFTEN WITH A VERY DELICATE AND FEMININE CONTOUR. IT'S POPULAR AMONG THOSE SEEKING A DRAMATIC TRANSFORMATION THAT EMPHASIZES ELEGANCE AND FACIAL BALANCE.": "Barbie nose rhinoplasty aims to achieve a highly refined, lifted, and small nose tip, often with a very delicate and feminine contour. It's popular among those seeking a dramatic transformation that emphasizes elegance and facial balance.",
 
   // Folycure Comparison
   "MAXIMUM GRAFT": "Maximum Graft",
@@ -151,5 +157,6 @@ export default {
   "GET A FREE CONSULTATION": "Get a Free Consultation",
   "FULL NAME": "Full Name",
   "EMAIL": "Email",
-  "OUR PATIENT JOURNEY": "Our Patient Journey"
+  "OUR PATIENT JOURNEY": "Our Patient Journey",
+  "WATCH REAL PATIENT STORIES AND SEE HOW THEIR LIVES CHANGED WITH RHINOPLASTY IN TURKEY.": "Watch real patient stories and see how their lives changed with rhinoplasty in Turkey.",
 } as const 

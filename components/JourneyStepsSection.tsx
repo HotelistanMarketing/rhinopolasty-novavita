@@ -15,16 +15,16 @@ const steps = [
         label: 'MEETING WITH YOUR MEDICAL TEAM',
     },
     {
-        label: 'HAIRLINE DESIGN & PRE-OP TESTS',
+        label: '3D NOSE DESIGN & PRE-OP TESTS',
     },
     {
-        label: 'HAIR TRANSPLANT (FUE OR DHI)',
+        label: 'RHINOPLASTY PROCEDURE (OPEN OR CLOSED)',
     },
     {
         label: 'POST-OP CARE & INSTRUCTIONS',
     },
     {
-        label: 'RECOVERY & HAIR GROWTH JOURNEY',
+        label: 'RECOVERY & SWELLING REDUCTION PROCESS',
     },
     {
         label: 'ENJOY YOUR NEW LOOK!',
@@ -39,7 +39,7 @@ const JourneyStepsSection = () => {
             {/* Title */}
             <div className='container relative text-center flex justify-center items-center'>
                 <h2 className="font-rubik font-semibold text-2xl lg:text-[52px] lg:leading-[62px] text-[#1F2B6C] text-center max-w-[779px] mb-2">
-                    {t("YOUR HAIR TRANSPLANT JOURNEY")} <br className='block lg:hidden' />
+                    {t("YOUR RHINOPLASTY JOURNEY")} <br className='block lg:hidden' />
                 </h2>
                 <div className='hidden lg:block absolute top-1/2 -translate-y-1/2 right-0 w-[145px] h-[145px]'>
                     <UiImage src="/flight-ticket-included.png" alt="flight-ticket-included" width={145} height={145} />

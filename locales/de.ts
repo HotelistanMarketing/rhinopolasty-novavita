@@ -30,19 +30,19 @@ export default {
   "INTERPRETER SUPPORT AVAILABLE": "Dolmetscher-Unterstützung verfügbar",
   "24/7 AFTERCARE SUPPORT": "24/7 Nachsorge-Unterstützung",
   "TAKE THE NEXT STEP": "Machen Sie den nächsten Schritt",
-  "LET'S PLAN YOUR HAIR TRANSPLANT!": "Lassen Sie uns Ihre Haartransplantation planen!",
-  "WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY": "Wenn Sie sich an uns wenden, wird sich ein medizinischer Assistent mit Ihnen in Verbindung setzen und alle Ihre Fragen beantworten. Wir sind für Sie da und unterstützen Sie bei jedem Schritt des Weges",
+  "LET'S PLAN YOUR RHINOPLASTY!": "Lassen Sie uns Ihre Rhinoplasty planen!",
+  "WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.": "Wenn Sie sich an uns wenden, wird sich ein medizinisches Beratungspersonal mit Ihnen in Verbindung setzen und alle Ihre Fragen beantworten. Wir sind für Sie da und unterstützen Sie bei jedem Schritt des Weges",
 
   // Journey Steps
-  "YOUR HAIR TRANSPLANT JOURNEY": "Ihre Reise zur Folycure Hair Clinic",
+  "YOUR RHINOPLASTY JOURNEY": "Ihre Reise zur Folycure Hair Clinic",
   "YOUR JOURNEY TO CONFIDENCE STARTS HERE": "Ihre Reise zum Selbstvertrauen beginnt hier",
   "ONLINE CONSULTATION": "Online-Beratung",
   "ARRIVAL IN ISTANBUL": "Ankunft in Istanbul",
   "MEETING WITH YOUR MEDICAL TEAM": "Treffen mit Ihrem medizinischen Team",
-  "HAIRLINE DESIGN & PRE-OP TESTS": "Haaransatz-Design & Voruntersuchungen",
-  "HAIR TRANSPLANT (FUE OR DHI)": "Haartransplantation (FUE oder DHI)",
+  "3D NOSE DESIGN & PRE-OP TESTS": "3D Nasen-Design & Voruntersuchungen",
+  "RHINOPLASTY PROCEDURE (OPEN OR CLOSED)": "Rhinoplasty Procedure (Open or Closed)",
   "POST-OP CARE & INSTRUCTIONS": "Nachsorge & Anweisungen",
-  "RECOVERY & HAIR GROWTH JOURNEY": "Genesung & Haarwachstums-Reise",
+  "RECOVERY & SWELLING REDUCTION PROCESS": "Genesung & Swellingsreduktions-Prozess",
   "ENJOY YOUR NEW LOOK!": "Genießen Sie Ihr neues Aussehen!",
   "START MY JOURNEY": "Meine Reise beginnen",
 
@@ -98,7 +98,7 @@ export default {
   "SLIDE": "Folie",
 
   // Before & After Examples
-  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING HAIR GROWTH.": "Sehen Sie die echten Transformationen unserer zufriedenen Patienten mit natürlich aussehendem Haarwachstum.",
+  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING NOSE": "Sehen Sie die echten Transformationen unserer zufriedenen Patienten mit natürlich aussehendem Nase.",
   "GRAFT": "Graft",
   "TECHNIQUES": "Techniken",
   "AGE": "Alter",

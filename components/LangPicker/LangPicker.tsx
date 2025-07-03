@@ -11,10 +11,10 @@ interface Language {
 
 const languages: Language[] = [
   { code: 'en', name: 'English', flag: '🇺🇸' },
-  { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },
-  { code: 'fr', name: 'Français', flag: '🇫🇷' },
+  // { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },
+  // { code: 'fr', name: 'Français', flag: '🇫🇷' },
   { code: 'de', name: 'Deutsch', flag: '🇩🇪' },
-  { code: 'it', name: 'Italiano', flag: '🇮🇹' },
+  // { code: 'it', name: 'Italiano', flag: '🇮🇹' },
 ];
 
 export default function LangPicker() {

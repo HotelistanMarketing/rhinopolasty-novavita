@@ -12,7 +12,7 @@ import { FolicountAISection } from '@/components';
 import TicketAndReviewsSection from '@/components/TicketAndReviewsSection/TicketAndReviewsSection';
 import Reviews from '@/components/Testimonials/Reviews';
 import BeforeAfterBannerMobile from '@/components/BeforeAfter/BeforeAfterBannerMobile';
-import TypesOfTransplant from '@/components/Procedures/TypesOfTransplant';
+import TypesOfTransplant from '@/components/Procedures/TypesOfRhinoPlasty';
 import FAQSection from '@/components/FAQ/FAQSection';
 import CallToActionFormVariant3 from '@/components/CallToActionFormVariant3/CallToActionFormVariant3';
 
@@ -55,7 +55,7 @@ export default function Home() {
       <div className='lg:hidden block'>
         <BeforeAfterBannerMobile />
       </div>
-      <FolicountAISection />
+      {/* <FolicountAISection /> */}
       <div id="contact-us">
         <GetConsultation />
       </div>

@@ -67,7 +67,7 @@ const BeforeAfterExamples: React.FC = () => {
       {/* Heading */}
       <h2 className="font-rubik font-semibold text-2xl lg:text-[52px] lg:leading-[62px] text-[#E6BF96] text-center mb-2">{t("BEFORE & AFTER")}</h2>
       <p className="font-rubik text-sm lg:text-[16px] lg:leading-[19px] text-[#C2C2C2] text-center mb-8 max-w-xl lg:whitespace-nowrap">
-        {t("SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING HAIR GROWTH.")}
+        {t("SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING NOSE")}
       </p>
       {/* Swiper Slider */}
       <div className="container w-full mb-[32px] px-5 lg:px-0">

@@ -31,11 +31,11 @@ export default {
   "INTERPRETER SUPPORT AVAILABLE": "Tercüman Desteği Mevcut",
   "24/7 AFTERCARE SUPPORT": "24/7 Ameliyat Sonrası Destek",
   "TAKE THE NEXT STEP": "Bir Sonraki Adımı Atın",
-  "LET'S PLAN YOUR HAIR TRANSPLANT!": "Saç Ekiminizi Planlayalım!",
-  "WHEN YOU CONTACT US, A MEDICAL ASSISTANT WILL CONTACT YOU AND ANSWER ALL OF YOUR QUESTIONS. WE'RE HERE TO HELP AND SUPPORT YOU EVERY STEP OF THE WAY": "Bizimle iletişime geçtiğinizde, bir tıbbi asistan sizinle iletişime geçecek ve tüm sorularınızı yanıtlayacaktır. Size yardım etmek ve her adımda destek olmak için buradayız",
+  "LET'S PLAN YOUR RHINOPLASTY!": "Rhinoplasty'nizi Planlayalım!",
+  "WHEN YOU CONTACT US, A MEDICAL CONSULTANT WILL REACH OUT TO ANSWER ALL YOUR QUESTIONS AND HELP YOU ORGANIZE YOUR JOURNEY STEP-BY-STEP. WE’RE HERE TO ASSIST YOU AT EVERY STAGE — SAFELY AND PROFESSIONALLY.": "Bizimle iletişime geçtiğinizde, bir medikal danışman sizinle iletişime geçecek ve tüm sorularınızı yanıtlayacak ve yolculuğunuzu adım adım organize edecektir. Her adımda size yardım etmek ve destek olmak için buradayız.",
 
   // Journey Steps
-  "YOUR HAIR TRANSPLANT JOURNEY": "Saç Ekimi Yolculuğunuz",
+  "YOUR RHINOPLASTY JOURNEY": "Saç Ekimi Yolculuğunuz",
   "YOUR JOURNEY TO CONFIDENCE STARTS HERE": "Güven Yolculuğunuz Burada Başlıyor",
   "ONLINE CONSULTATION": "Online Konsültasyon",
   "ARRIVAL IN ISTANBUL": "İstanbul'a Varış",
@@ -99,7 +99,7 @@ export default {
   "SLIDE": "slayt",
 
   // Before & After Examples
-  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING HAIR GROWTH.": "Mutlu hastalarımızın doğal görünümlü saç büyümesiyle gerçek dönüşümlerini görün.",
+  "SEE THE REAL TRANSFORMATIONS OF OUR HAPPY PATIENTS WITH NATURAL-LOOKING NOSE": "Mutlu hastalarımızın doğal görünümlü burun ile gerçek dönüşümlerini görün.",
   "GRAFT": "Graft",
   "TECHNIQUES": "Teknikler",
   "AGE": "Yaş",
