@@ -85,7 +85,7 @@ const FolycureComparison: FC = () => {
                             <div className="flex gap-2 -rotate-90 lg:rotate-0 flex-col lg:flex-row justify-end lg:justify-start translate-x-[4px] lg:translate-x-0">
                                 <div className="h-[49px] w-[115px] lg:w-[163px] lg:h-[72px] bg-[#1F2B6C] flex items-center justify-center ">
                                     <Image
-                                        src="/Logo/logo.png"
+                                        src="/Logo/logo.svg"
                                         alt={t("FOLYCURE LOGO")}
                                         width={133}
                                         height={40}

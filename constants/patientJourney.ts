@@ -7,31 +7,31 @@ export const PATIENT_JOURNEY_PATIENTS: Patient[] = [
     id: '1',
     name: 'James Mitchell',
     subtitle: 'Saphire FUE | 3500 Graft',
-    image: '/images/woman-working-on-scalp-of-man.png',
+    image: '/images/doctor-working-on-nose.jpg',
   },
   {
     id: '2',
     name: 'James Mitchell',
     subtitle: 'Saphire FUE | 3500 Graft',
-    image: '/images/hair-transplant-in-progress.png',
+    image: '/images/doctor-working-on-nose.jpg',
   },
   {
     id: '3',
     name: 'James Mitchell',
     subtitle: 'Saphire FUE | 3500 Graft',
-    image: '/images/woman-working-on-scalp-of-man.png',
+    image: '/images/doctor-working-on-nose.jpg',
   },
   {
     id: '4',
     name: 'James Mitchell',
     subtitle: 'Saphire FUE | 3500 Graft',
-    image: '/images/woman-working-on-scalp-of-man.png',
+    image: '/images/doctor-working-on-nose.jpg',
   },
   {
     id: '5',
     name: 'James Mitchell',
     subtitle: 'Saphire FUE | 3500 Graft',
-    image: '/images/woman-working-on-scalp-of-man.png',
+    image: '/images/doctor-working-on-nose.jpg',
   },
 ];
 

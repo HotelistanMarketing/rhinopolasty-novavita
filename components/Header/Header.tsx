@@ -38,7 +38,7 @@ export default function Header({ hideLangPicker = false }: HeaderProps) {
     <header className="bg-[#1A2550] text-white w-full shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex items-center justify-between py-[22px] md:py-3 px-[24px] md:px-4">
         <Link href="/" className='relative md:w-[188px] md:h-[58px] w-[133px] h-[33px]'>
-          <Image src="/Logo/logo.svg" alt="Folycure Logo" fill priority />
+          <Image src="/Logo/logo.svg" alt="Nova Forma Logo" fill priority />
         </Link>
         <div className='flex items-center'>
           <nav className="hidden md:flex gap-6 items-center">

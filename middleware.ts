@@ -5,7 +5,7 @@ export function middleware(request: NextRequest) {
   console.log("this is the pathname bto", pathname)
   
   // Skip ALL processing for landing page routes
-  if (pathname === '/hair-transplant-turkey' ||
+  if (pathname === '/rhinoplasty-turkey' ||
       pathname === '/sac-ekimi-turkiye' ||
       pathname === '/greffe-cheveux-turquie' ||
       pathname === '/haartransplantation-tuerkei' ||

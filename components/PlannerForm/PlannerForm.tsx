@@ -36,7 +36,7 @@ const getCurrentLanguageFromURL = (): string => {
   const pathname = window.location.pathname;
   
   // Check for landing pages first
-  if (pathname === '/hair-transplant-turkey') return 'English';
+  if (pathname === '/rhinoplasty-turkey') return 'English';
   if (pathname === '/sac-ekimi-turkiye') return 'Turkish';
   if (pathname === '/greffe-cheveux-turquie') return 'French';
   if (pathname === '/haartransplantation-turkei') return 'German';

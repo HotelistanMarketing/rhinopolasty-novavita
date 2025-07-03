@@ -9,8 +9,8 @@ export default function Footer() {
       {/* Logo */}
       <div className="mb-6">
         <Image
-          src="/Logo/logo.png"
-          alt="Folycure Logo"
+          src="/Logo/logo.svg"
+          alt="Nova Forma Logo"
           width={254}
           height={78}
           priority

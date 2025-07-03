@@ -72,7 +72,7 @@ export default function WhyChoose() {
             <UiLink 
             href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`}
             target='_blank'
-            className="w-[calc(100%-20px)] lg:w-auto lg:mt-2 bg-[#232A5C] text-white text-sm lg:text-[20px] font-semibold rounded-[50px] px-10 py-4 shadow-lg hover:bg-[#1A2550] transition-colors ">
+            className="w-[calc(100%-20px)] lg:w-auto lg:mt-2 bg-[#232A5C] text-white text-sm lg:text-[20px] font-semibold rounded-[50px] px-10 py-4 shadow-lg hover:bg-[#1A2550] transition-colors  text-center">
               {t("ASK US ANYTHING")}
             </UiLink>
           </div>
