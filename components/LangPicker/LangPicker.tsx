@@ -4,7 +4,7 @@ import GlobeIcon from '@/public/icons/GlobeIcon';
 import { useChangeLocale, useCurrentLocale } from '@/locales/client';
 
 interface Language {
-  code: 'en' | 'tr' | 'fr' | 'de' | 'it';
+  code: 'en' | 'de';
   name: string;
   flag: string;
 }
@@ -22,7 +22,7 @@ export default function LangPicker() {
   const changeLocale = useChangeLocale({ preserveSearchParams: true });
   const currentLocale = useCurrentLocale();
 
-  const handleLanguageChange = (locale: 'en' | 'tr' | 'fr' | 'de' | 'it') => {
+  const handleLanguageChange = (locale: 'en' | 'de' ) => {
     changeLocale(locale);
     setIsOpen(false);
   };

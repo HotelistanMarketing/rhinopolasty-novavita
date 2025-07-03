@@ -8,9 +8,9 @@ export default function Offerings() {
 
   const offerings = [
     t("FREE CONSULTATION"),
-    t("HAIR TRANSPLANT"),
-    t("BEARD TRANSPLANT"),
-    t("EYEBROW TRANSPLANT"),
+    t("RHINOPLASTY / NOSE JOB"),
+    t("SEPTORHINOPLASTY"),
+    t("ETHNIC RHINOPLASTY"),
     t("PRP TREATMENT"),
     t("SAPPHIRE FUE"),
     t("DHI TECHNIQUE"),

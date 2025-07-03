@@ -12,7 +12,7 @@ export default function BeforeAfterBannerMobile() {
         <section className="md:hidden w-full flex flex-col items-center pt-6">
             {/* Headline */}
             <h2 className="text-[#1F2B6C] text-center font-rubik font-semibold text-base leading-[19px] uppercase px-4 mb-4">
-                {t("THE HAIR YOU'VE BEEN DREAMING OF, AS CLOSE AS A FREE CONSULTATION")}
+                {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.")}
             </h2>
             <UiLink
                 href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`}

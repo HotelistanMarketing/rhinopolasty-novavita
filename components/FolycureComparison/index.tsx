@@ -64,7 +64,7 @@ const FolycureComparison: FC = () => {
                                 {t("MAXIMUM GRAFT")} <br/> {t("MAXIMUM SATISFACTION")}
                             </h2>
                             <p className="text-sm lg:text-xl text-black leading-relaxed max-w-[530px]">
-                                {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES LIKE SAPPHIRE FUE AND DHI AT OUR ADVANCED CLINIC TO DELIVER NATURAL-LOOKING HAIR RESTORATION. WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND AFTERCARE.")}
+                                {t("OUR INTERNATIONALLY RECOGNIZED SURGEONS USE THE LATEST TECHNIQUES IN RHINOPLASTY TO DELIVER BALANCED, NATURAL-LOOKING NASAL AESTHETICS. AT OUR ADVANCED CLINIC, WE OFFER AFFORDABLE ALL-INCLUSIVE PACKAGES COVERING THE PROCEDURE, ACCOMMODATION, TRANSFERS, AND PERSONALIZED AFTERCARE.")}
                             </p>
                         </div>
                         <div className="flex justify-center mt-6 lg:mt-12 w-full">

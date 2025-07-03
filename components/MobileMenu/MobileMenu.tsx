@@ -12,7 +12,7 @@ export default function MobileMenu() {
     const t = useI18n();
 
     const navLinks = [
-        { name: t("WHY FOLYCURE HAIR CLINIC"), href: '#why-folycure' },
+        { name: t("WHY NOVA FORMA"), href: '#why-folycure' },
         { name: t("BEFORE & AFTER"), href: '#before-after' },
         { name: t("YOUR JOURNEY"), href: '#your-journey' },
         { name: t("HAPPY PATIENTS"), href: '#happy-patients' },
